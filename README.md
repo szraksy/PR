@@ -3,8 +3,8 @@
 > Configuring the project, studying guidelines, getting familiar with GIT and CI.
 
 # Structure of Lab Works on Git
-> travis
-> lab work file
-> .gitignore
-> reguirements.txt
-> README.md
+ travis
+ lab work file
+ .gitignore
+ reguirements.txt
+ README.md
